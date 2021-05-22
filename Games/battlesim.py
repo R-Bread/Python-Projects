@@ -1,4 +1,4 @@
-from AdvDung.battlesys import *
+from battlesys import *
 from random import randint, choice, choices
 '''
 Possible see-all mode.
