@@ -1,4 +1,4 @@
-from AdvDung.battlesys import *
+from battlesys import *
 '''
 To Do:
 Second-last room onwards.
