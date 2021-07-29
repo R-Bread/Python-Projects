@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 27 13:20:53 2020
 
-@author: taijee
-"""
 rang=int(input("Enter the range."))+1
 score=float(input("Your score?"))
 ans=list(input("List your answers.").split(","))
