@@ -6,4 +6,4 @@ This file encodes the mechanics of characters (playable and enemies), moves and 
 ### battlsim.py
 Play unending battles -  a battle simulator, hence the name - both a game and to test the balance of moves and characters in battles. Imports battlesys.
 ### adventuredungeon.py
-The actual game, currently text-based. 
+The actual game, currently text-based. Includes items (map, weapons, etc) to pick up/obtain, locked doors and keys, map updates based on rooms one has been in, descriptions for rooms, enemies, items, etc.
